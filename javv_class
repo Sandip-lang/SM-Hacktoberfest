@@ -1,0 +1,7 @@
+ class a
+ {
+int a;
+int b;
+string c;
+a=14
+}
